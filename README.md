@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Creating Very simple React-Redux App
 
+to play around with Redux, I started this app to warmp up building a simple React-Redux app.
 In the project directory, you can run:
 
 ### `npm start`
